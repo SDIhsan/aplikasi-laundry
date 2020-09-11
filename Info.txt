@@ -1,1 +1,3 @@
 Host URL : "http://localhost/aplaun"
+
+Functions.php
